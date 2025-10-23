@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>The Year 1066</title>
+    <style>
+      /* General styles */
+
+      html {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 10px;
+      }
+
+      h1 {
+        font-size: 3rem;
+        font-family: "Papyrus", "Copperplate", "fantasy";
+        text-align: center;
+      }
+
+      h2 {
+        font-size: 2rem;
+      }
+
+      ul,ol,dl,p {
+        font-size: 1.5rem;
+      }
+
+      li, p {
+        line-height: 1.5;
+      }
+
+      /* Unordered list styles */
+
+      ul {
+        padding-left: 2rem;
+        list-style-type: none;
+      }
+
+      ul li {
+        padding-left: 2rem;
+        background-image: url(star.svg);
+        background-position: 0 0;
+        background-size: 1.6rem 1.6rem;
+        background-repeat: no-repeat;
+      }
+
+      /* Ordered list styles */
+
+      ol {
+        list-style-type: upper-roman;
+      }
+
+      /* Description list styles */
+
+      dd, dt {
+        line-height: 1.5;
+      }
+
+      dt {
+        font-weight: bold;
+      }
+
+      div.fixed {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 300px;
+        border: 3px solid #73AD21;
+        background: white;
+        padding: 8px;
+      }
+
+    </style>
+
+  </head>
+  <body>
+    <h1 style="color: maroon;"><b>1066</b></h1>
+
+    <h2>Key Events</h2>
+    <ol>
+      <li>The Death of Edward the Confessor</li>
+      <li>The Battle of Stamford Bridge</li>
+      <li>The Battle of Hastings</li>
+
+    </ol>
+
+    <h2>Notable Figures</h2>
+    <dl>
+      <dt>Harold Hadrada</dt>
+      <dd>The King of Norway who believed it was his right to become King of England</dd>
+
+            <dt>Harold Godwinson</dt>
+      <dd>The last Anglo-Saxon King of England who was defeated at the Battle of Hastings.</dd>
+
+      <dt>William the Conqueror</dt>
+      <dd>The Duke of Normandy who claimed the English throne and led the Norman invasion of England.</dd>
+
+    </dl>
+
+    <table>
+      <tr>
+        <th>Event</th>
+        <th>Date</th>
+        <th>Significance</th>
+
+       </tr>
+       
+      <tr>
+        <td>Death of Edward the Confessor</td>
+        <td>January 5, 1066</td>
+        <td>Led to a succession crisis in England.</td>
+
+      </tr>
+      <tr>
+        <td>Battle of Stamford Bridge</td>
+        <td>September 25, 1066</td>
+        <td>Marked the end of Viking invasions in England.</td>
+      </tr>
+      <tr>
+        <td>Battle of Hastings</td>
+        <td>October 14, 1066</td>
+        <td>Resulted in Norman conquest of England.</td>
+      </tr>
+    </table>
+
+    <h2>The Norman Conquest</h2>
+    <h3></h3>The Bayeux Tapestry</h3>
+    <p>The Bayeux Tapestry is an embroidered cloth nearly 70 meters long that depicts the events leading up to the Norman conquest of England and the Battle of Hastings in 1066. It is a significant historical artifact that provides insight into the culture, warfare, and politics of the time.</p>
+    <div class = "fixed">
+      <img src="bayeuxtapestry.jpeg" alt="The Bayeux Tapestry" width="200">
+    </div>  
+    <br></br><a href = "https://www.britishmuseum.org/about-us/press/press-releases/bayeux-tapestry-displayed-british-museum">Go visit the tapestry in person at the British Musuem  </a>
+
+  </body>
+</html>
